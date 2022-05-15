@@ -1,0 +1,4 @@
+org\piotrus\SortOneArgumentCaseTest.class
+org\piotrus\SortMoreThanTenArgumentsCaseTest.class
+org\piotrus\SortZeroArgumentsCaseTest.class
+org\piotrus\SortTenArgumentsCaseTest.class
